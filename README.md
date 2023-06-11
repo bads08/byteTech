@@ -1,2 +1,2 @@
 # byteTech
-<img src="assets/img/portfolio/portfolio-1.jpg">
+<img src="assets/img/screencapture.png">
